@@ -1,3 +1,3 @@
 # demo
 This is my demo repository.
-Auttor - M.Charan Sai
+Author - M.Charan Sai
