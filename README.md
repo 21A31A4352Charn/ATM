@@ -1,2 +1,3 @@
 # demo
-This is my demo repository
+This is my demo repository.
+Auttor - M.Charan Sai
