@@ -1,3 +1,3 @@
 # demo
 This is my demo repository.<br><hr>
-Author - M.Charan Sai
+<h1>Author - M.Charan Sai</h1>
